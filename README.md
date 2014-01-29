@@ -49,4 +49,4 @@ Simple Nautilus script to convert SVG to PNG based on DPI or resolution. Other f
                   (3) https://launchpad.net/~webupd8team/+archive/y-ppa-manager
                   (4) http://askubuntu.com/questions/236414/how-can-i-install-a-nautilus-script
 
-More documentation may be found [here](http://askubuntu.com/questions/209449/is-there-a-way-to-batch-export-svgs-to-pngs).
+More documentation may be found [here](http://askubuntu.com/a/412583/81372).
