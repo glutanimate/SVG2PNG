@@ -2,7 +2,7 @@
 
 # NAME:         SVG2PNG
 # VERSION:      0.1
-# AUTHOR:       (c) 2014 Glutanimate
+# AUTHOR:       (c) 2014 Glutanimate (https://github.com/Glutanimate)
 #
 # DESCRIPTION:  Simple application to convert SVG files to PNG files based on DPI or resolution. 
 #               Designed to work as a context menu script in file managers like Nautilus and Thunar.
