@@ -7,7 +7,7 @@ Simple Nautilus script to convert SVG to PNG based on DPI or resolution. Other f
 
 ## Screenshot
 
-![]()
+![](https://raw.githubusercontent.com/Glutanimate/SVG2PNG/master/SVG2PNG.png)
 
 ## Documentation
 
